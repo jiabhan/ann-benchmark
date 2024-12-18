@@ -1,0 +1,6 @@
+add_subdirectory(enron-test)
+add_subdirectory(qg-all-test)
+add_subdirectory(msong-test)
+add_subdirectory(nuswide-test)
+add_subdirectory(trevi-test)
+add_subdirectory(wiki-test)

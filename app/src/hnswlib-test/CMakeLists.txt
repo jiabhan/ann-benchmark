@@ -1,0 +1,6 @@
+add_subdirectory(siftsmall-test)
+add_subdirectory(sift-test)
+add_subdirectory(gist-test)
+add_subdirectory(enron-test)
+add_subdirectory(trevi-test)
+add_subdirectory(hnswlib-all-test)
